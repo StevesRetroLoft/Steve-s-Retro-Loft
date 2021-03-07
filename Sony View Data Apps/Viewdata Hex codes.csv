@@ -1,0 +1,37 @@
+Hex,Char,Action,Action,Notes
+x0c,FF,12,NewPage,
+x0a,LF,10,LineFeed,
+x0b,VT,11,VerticalTab,
+x41,A,65,Red,
+x42,B,66,Green,
+x43,C,67,Yellow,
+x44,D,68,Blue,
+x45,E,69,Magenta,
+x46,F,70,Cyan,
+x47,G,71,White,
+x48,H,72,Flashon,
+x49,I,73,Steady,
+x4a,J,74,End Edit(B,
+x4b,K,75,Start Edit(B,
+x4c,L,76,Normal Height,
+x4d,M,77,Double Height,
+x4e,N,78,Shift Out,
+x4f,O,79,Shift In,
+x50,P,80,Mosaic Black,Graphics Mode
+x51,Q,81,Mosaic Red ,Graphics Mode
+x52,R,82,Mosaic Green,Graphics Mode
+x53,S,83,Mosaic Yellow,Graphics Mode
+x54,T,84,Mosaic Blue,Graphics Mode
+x55,U,85,Mosaic Magent,Graphics Mode
+x56,V,86,Mosaic Cyan,Graphics Mode
+x57,W,87,Mosaic White,Graphics Mode
+x58,X,88,Reveal Hidden/Cancel Display,
+x59,Y,89,Continous Mosaics,
+x5a,Z,90,Separated Mosaics,
+x5b,[,91,,
+x5c,\,92,,
+x5d,],93,Background Colour,
+x5e,^,94,,
+x5f,_,95,,
+,,,Graphics from 60(dec) to 64(dec),
+,,,then from 91(dec) to 127(dec),
